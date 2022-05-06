@@ -1,0 +1,16 @@
+.itemList {
+  border: 1px solid;
+  display: flex;
+  justify-content: space-around;
+  width: 70%;
+  margin-right: 60px;
+  padding: 10px;
+  margin-top: 20px;
+}
+.mybtn {
+  text-align: right;
+  /* //margin-right: auto; */
+}
+.itemList li {
+  width: 100%;
+}
